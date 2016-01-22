@@ -1,2 +1,2 @@
-# recursos-de-aprendizajes
-Lista de recursos de aprendizajes de JavaScript
+# Recursos de Aprendizaje
+Lista de recursos de aprendizaje de JavaScript
